@@ -1,5 +1,3 @@
-Comment ca marche ?
-
 on utislie la database de open food fact.
 Pour chaque produit, on recupere les informations suivantes:
 - id
