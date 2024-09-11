@@ -86,7 +86,7 @@ Après cela on a donc une liste de mots uniques, on peut maintenant transformer 
 
 Avant de vectoriser les données, certains produits contiennent plus de 220 mots, ce qui risquerait de surcharger le modèle avec des informations inutiles. Pour éviter ce problème, il est important d'analyser la distribution de la longueur des listes de tokens (mots) afin de définir des limites raisonnables.
 
-## GRAPHIQUE DE LA DISTRIBUTION DE LA LONGUEUR DES PRODUITS
+![Distribution des longueurs de séquences](https://github.com/Azzary/OpenFoodFactAnalyse/blob/main/images/distribution_sequence_lengths.png?raw=true)
 
 En se basant sur ces distributions, on peut fixer les longueurs maximales pour chaque type de donnée :
 ```	
