@@ -1,0 +1,9 @@
+.env
+
+openfoodfacts-mongodbdump.gz
+tensor_data.csv
+
+test.py
+models/
+
+__pycache__/

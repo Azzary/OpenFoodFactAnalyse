@@ -1,0 +1,18 @@
+{
+    "Alcool": 0,
+    "Boissons": 1,
+    "Boissons sucrées": 2,
+    "Condiments et sauces": 3,
+    "Eau": 4,
+    "Fruits et légumes": 5,
+    "Féculents": 6,
+    "Féculents et légumes secs (légumineuses)": 7,
+    "Matières grasses": 8,
+    "Plats préparés": 9,
+    "Produits laitiers": 10,
+    "Produits sucrés": 11,
+    "Sel": 12,
+    "UNDEFINED": 13,
+    "Viande, poisson et fruits de mer": 14,
+    "Vitamines et minéraux": 15
+}
