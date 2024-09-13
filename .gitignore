@@ -7,3 +7,9 @@ test.py
 models/
 
 __pycache__/
+
+filtered_uptakes_20240911_154826.csv
+filtered_uptakes_20240911_172050.csv
+predicted_categories_20240911_154100.csv
+uptakes_20240911_154219.csv
+uptakes_20240911_172043.csv
